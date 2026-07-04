@@ -1,5 +1,5 @@
 # DupePlayerBlock
-A mod/plugin for Minecraft using Fabric/Paper that block duplicate player joins
+A server-side mod/plugin for Minecraft using Fabric/Paper that block duplicate player joins
 
 Download: https://github.com/rogerwindberg/DupePlayerBlock/releases
 
