@@ -1,4 +1,8 @@
-# DupePlayerBlock
+<p align="center">
+  <img width="766" alt="DupePlayerBlock-Banner" src="https://github.com/user-attachments/assets/6ab15e88-785c-4ef8-b3a5-cea4d9d7db51" />
+</p>
+
+#
 A server-side mod/plugin for Minecraft using Fabric/Paper that block duplicate player joins
 
 <img width="627" alt="in-game message screenshot" src="https://github.com/user-attachments/assets/efb37606-845d-4f80-86c5-19cdb2705bb3" /><br>
