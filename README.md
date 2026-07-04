@@ -1,7 +1,7 @@
 # DupePlayerBlock
 A server-side mod/plugin for Minecraft using Fabric/Paper that block duplicate player joins
 
-<img width="627" alt="image" src="https://github.com/user-attachments/assets/dba0a43a-1141-4519-815a-30e5b49ddb8d" /><br>
+<img width="627" alt="in-game message screenshot" src="https://github.com/user-attachments/assets/efb37606-845d-4f80-86c5-19cdb2705bb3" /><br>
 
 This project was based on [oxygencraft/DuplicatePlayerJoin](https://github.com/oxygencraft/DuplicatePlayerJoin).
 
