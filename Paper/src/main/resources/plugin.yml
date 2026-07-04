@@ -1,5 +1,5 @@
-main: me.oxygencraft.dupeplayerjoin.DupePlayerJoin
-name: DuplicatePlayerJoin
+main: me.rogerwindberg.dupeplayerblock.DupePlayerBlock
+name: DupePlayerBlock
 version: 1.0.0
-author: oxygencraft
+author: Roger Windberg
 api-version: 1.15

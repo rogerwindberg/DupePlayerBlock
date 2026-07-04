@@ -4,6 +4,7 @@
 build/
 out/
 classes/
+**/target/
 
 # idea
 
@@ -19,6 +20,14 @@ classes/
 bin/
 .classpath
 .project
+
+# fabric
+
+# java/tooling
+
+.jdk21/
+*.class
+*.log
 
 # fabric
 

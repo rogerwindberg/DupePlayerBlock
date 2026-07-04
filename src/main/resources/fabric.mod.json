@@ -1,32 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "dupeplayerjoin",
+  "id": "dupeplayerblock",
   "version": "${version}",
-
-  "name": "Duplicate Player Join",
-  "description": "This mod allows duplicate player joins",
+  "name": "DupePlayerBlock",
+  "description": "Blocks duplicate logins for the same username so an existing player is not kicked by a second connection.",
   "authors": [
-    "oxygencraft"
+    "Roger Windberg"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
-
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
-      "me.oxygencraft.dupejoin.DupeJoinMod"
+      "me.rogerwindberg.dupeplayerblock.DupePlayerBlockMod"
     ]
   },
   "mixins": [
-    "dupeplayerjoin.mixins.json"
+    "dupeplayerblock.mixins.json"
   ],
-
   "depends": {
-    "fabricloader": ">=0.4.0"
+    "fabricloader": ">=0.19.3",
+    "minecraft": ">=1.21.5"
   }
 }
